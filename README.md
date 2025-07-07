@@ -95,5 +95,5 @@ MIT License – Use freely, but give credit 🙌
 ## 🙋‍♂️ Author
 
 **Waquar Ahmed**  
-Connect on [LinkedIn](https://www.linkedin.com/in/waquar-ahmed)
+Connect on [LinkedIn](https://www.linkedin.com/in/waquarahmed)
 
