@@ -7,7 +7,7 @@ An AI-powered Streamlit web app that predicts your financial health based on you
 ## 🚀 Demo
 
 Try the live app on [Hugging Face Spaces](https://huggingface.co/spaces/waquarahmed/Financial_Health_Predictor)  
-*(Replace with your actual URL)*
+
 
 ---
 
