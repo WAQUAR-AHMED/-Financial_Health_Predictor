@@ -46,21 +46,29 @@ Try the live app on [Hugging Face Spaces](https://huggingface.co/spaces/your-use
 git clone https://github.com/your-username/finance-health-predictor.git cd finance-health-predictor
 
 2. Install dependencies:
+3. 
 pip install -r requirements.txt
 
-3. Run the app:
+4. Run the app:
 
   streamlit run app.py
 
 ---
 
 ## 📁 File Structure
+
 ├── app.py # Streamlit web app
+
 ├── model.pkl # Trained ML model
+
 ├── label_encoder.pkl # Encoded target labels
+
 ├── dummy_financial_data.csv # Sample dataset (optional)
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # This file
+
 ---
 
 ## 📦 Deploying to Hugging Face Spaces
