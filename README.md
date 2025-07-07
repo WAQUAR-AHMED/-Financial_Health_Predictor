@@ -46,10 +46,10 @@ Try the live app on [Hugging Face Spaces](https://huggingface.co/spaces/waquarah
 git clone https://github.com/WAQUAR-AHMED/-Financial_Health_Predictor.git cd finance-health-predictor
 
 2. Install dependencies:
-3. 
-pip install -r requirements.txt
 
-4. Run the app:
+  pip install -r requirements.txt
+
+3. Run the app:
 
   streamlit run app.py
 
