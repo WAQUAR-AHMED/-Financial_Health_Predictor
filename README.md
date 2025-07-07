@@ -6,7 +6,7 @@ An AI-powered Streamlit web app that predicts your financial health based on you
 
 ## 🚀 Demo
 
-Try the live app on [Hugging Face Spaces](https://huggingface.co/spaces/your-username/finance-health-predictor)  
+Try the live app on [Hugging Face Spaces](https://huggingface.co/spaces/waquarahmed/Financial_Health_Predictor)  
 *(Replace with your actual URL)*
 
 ---
@@ -43,7 +43,7 @@ Try the live app on [Hugging Face Spaces](https://huggingface.co/spaces/your-use
 
 1. Clone the repo:
 
-git clone https://github.com/your-username/finance-health-predictor.git cd finance-health-predictor
+git clone https://github.com/WAQUAR-AHMED/-Financial_Health_Predictor.git cd finance-health-predictor
 
 2. Install dependencies:
 3. 
