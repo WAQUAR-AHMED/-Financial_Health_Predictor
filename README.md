@@ -30,6 +30,14 @@ Try the live app on [Hugging Face Spaces](https://huggingface.co/spaces/waquarah
 
 ---
 
+## Model Performance
+
+![image](https://github.com/user-attachments/assets/fed38b5a-1bc7-4784-b914-ba998b285973)
+
+![image](https://github.com/user-attachments/assets/6f7f8f5e-da49-4eac-a2b9-e722473a839f)
+
+---
+
 ## 🖥️ Tech Stack
 
 - Python 🐍
