@@ -42,11 +42,11 @@ Try the live app on [Hugging Face Spaces](https://huggingface.co/spaces/your-use
 ## 🛠️ Installation
 
 1. Clone the repo:
-  git clone https://github.com/your-username/finance-health-predictor.git
-  cd finance-health-predictor
+
+git clone https://github.com/your-username/finance-health-predictor.git cd finance-health-predictor
 
 2. Install dependencies:
-  pip install -r requirements.txt
+pip install -r requirements.txt
 
 3. Run the app:
 
@@ -55,7 +55,6 @@ Try the live app on [Hugging Face Spaces](https://huggingface.co/spaces/your-use
 ---
 
 ## 📁 File Structure
-
 ├── app.py # Streamlit web app
 ├── model.pkl # Trained ML model
 ├── label_encoder.pkl # Encoded target labels
